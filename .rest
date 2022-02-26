@@ -1,1 +1,6 @@
+# This is the API documentation for a simple resume profile.
+# consumes: application/json
+# produces: application/json
+
+# /professional = shows my profile page
 GET http://localhost:8080/professional
